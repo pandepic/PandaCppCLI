@@ -1,0 +1,16 @@
+﻿#ifndef __{NAMESPACEINCGUARD}_{CLASSNAMEINCGUARD}_h__
+#define __{NAMESPACEINCGUARD}_{CLASSNAMEINCGUARD}_h__
+
+namespace {NAMESPACE}
+{
+	class {CLASSNAME}
+	{
+		public:
+			{CLASSNAME}();
+			~{CLASSNAME}();
+
+		protected:
+	};
+}
+
+#endif

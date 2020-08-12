@@ -1,0 +1,9 @@
+﻿#include "{INCLUDEHEADER}"
+
+{NAMESPACE}::{CLASSNAME}::{CLASSNAME}()
+{
+}
+
+{NAMESPACE}::{CLASSNAME}::~{CLASSNAME}()
+{
+}

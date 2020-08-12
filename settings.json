@@ -1,0 +1,17 @@
+{
+  "DefaultProfile": "pandasdl",
+  "Profiles": {
+    "pandasdl": {
+      "Name": "pandasdl",
+      "Namespace": "PandaSDL",
+      "NamespaceIncGuard": "pandasdl",
+      "CreateRootPath": "panda_sdl/"
+    },
+    "swords": {
+      "Name": "swords",
+      "Namespace": "SwordsAndSorcery",
+      "NamespaceIncGuard": "swords",
+      "CreateRootPath": ""
+    }
+  }
+}
